@@ -7,6 +7,6 @@ int main()
 {
     tGPS OBJ;
     OBJ.Menu();
-
+    OBJ.Calculitineraire();
     return 0;
 }
